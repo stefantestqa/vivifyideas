@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-07T21:29:33 CET" name="Default suite" finished-at="2022-02-07T21:29:55 CET" duration-ms="21497">
+    <groups>
+    </groups>
+    <test started-at="2022-02-07T21:29:33 CET" name="Default test" finished-at="2022-02-07T21:29:55 CET" duration-ms="21497">
+      <class name="tests.LogInTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.LogInTest@446293d]" started-at="2022-02-07T21:29:33 CET" name="beforeClass" finished-at="2022-02-07T21:29:40 CET" duration-ms="6719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="name()[pri:0, instance:tests.LogInTest@446293d]" started-at="2022-02-07T21:29:40 CET" name="name" finished-at="2022-02-07T21:29:44 CET" duration-ms="4258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method signature="logInInvalidCredentials()[pri:0, instance:tests.LogInTest@446293d]" started-at="2022-02-07T21:29:44 CET" name="logInInvalidCredentials" finished-at="2022-02-07T21:29:48 CET" duration-ms="3421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInInvalidCredentials -->
+        <test-method is-config="true" signature="name()[pri:0, instance:tests.LogInTest@446293d]" started-at="2022-02-07T21:29:48 CET" name="name" finished-at="2022-02-07T21:29:51 CET" duration-ms="3443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method signature="logInWithValidCredentials()[pri:0, instance:tests.LogInTest@446293d]" started-at="2022-02-07T21:29:51 CET" name="logInWithValidCredentials" finished-at="2022-02-07T21:29:55 CET" duration-ms="3433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInWithValidCredentials -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.LogInTest@446293d]" started-at="2022-02-07T21:29:55 CET" name="afterClass" finished-at="2022-02-07T21:29:55 CET" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.LogInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
